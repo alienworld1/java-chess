@@ -1,0 +1,17 @@
+.chess-board {
+    -fx-padding: 10;
+    -fx-background-color: #2b2b2b;
+}
+
+.square {
+    -fx-border-color: #404040;
+    -fx-border-width: 1;
+}
+
+.square:hover {
+    -fx-cursor: hand;
+}
+
+.piece {
+    -fx-smooth: true;
+}
